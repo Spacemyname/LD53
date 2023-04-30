@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/I.mp3</SourceFile>
+  <SourceTime>2023-04-29T15:49:31.8234552-07:00</SourceTime>
+  <DestFile>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/bin/Windows/Content/I.xnb</DestFile>
+  <DestTime>2023-04-29T16:13:46.6342856-07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T16:17:54-07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

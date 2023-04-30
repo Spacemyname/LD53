@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/Georgia_16.spritefont</SourceFile>
+  <SourceTime>2023-04-29T13:36:37.1438965-07:00</SourceTime>
+  <DestFile>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/bin/Windows/Content/Georgia_16.xnb</DestFile>
+  <DestTime>2023-04-29T13:36:44.0183017-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54-07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

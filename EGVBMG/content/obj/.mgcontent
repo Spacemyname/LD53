@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/A.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/Arial_8.spritefont</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/B.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/BP.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/C.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/Click.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/D.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/DefaultFX.fx</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/Ding.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/E.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/F.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/G.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/Georgia_16.spritefont</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/H.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/HW.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/HZ.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/I.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/J.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/K.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/L.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/M.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/menuscreen.png</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/Motorwerk_16.spritefont</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/Motorwerk_32.spritefont</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/N.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/O.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/P.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/Q.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/R.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/RR.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/S.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/SpriteSheet.png</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/Symbol_16.spritefont</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/T.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/U.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/V.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/W.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/X.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/XH.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/Y.mp3</File>
+    <File>D:/Docs2/EcrosoGames/Source/LD/53-Delivery/EGVBMG/content/Z.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
